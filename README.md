@@ -3,4 +3,4 @@ Topological Data Analysis: Frechet Diffusion Function and Persistent Homology on
 
 Note: the amazon data file is about 1 gig in size so I did not upload it. 
 
-Note: Self taught in python so parts of my code are very inefficient. 
+Started this project when first learning python so some inefficiencies exist in the code. 
